@@ -10,7 +10,7 @@ Welcome to sharing the latest technology and coding technique for me.
 :runner: Focus what I like for a long distance
 
 ## :children_crossing: Current stats
-- Javascript, React.js
+- React.js
 - kotlin, Groovy
 - looking for a new job
 
@@ -18,11 +18,11 @@ Welcome to sharing the latest technology and coding technique for me.
 - HTML, CSS3
 - JavaScript
 - Bootstrap, DataTable
-- React.js, jQuery, AJAX
-- Java, C, C#, JSP, kotlin
+- Node.js, jQuery, AJAX, Axios, handlebars
+- Java,JSP
 - SpringFramework
 - ABAP
-- PL/SQL, MSSQL
+- PL/SQL, MSSQL, MYSQL
 
 ## 🔧 Tool
 - git bash, git extension, sourcetree, gitea
